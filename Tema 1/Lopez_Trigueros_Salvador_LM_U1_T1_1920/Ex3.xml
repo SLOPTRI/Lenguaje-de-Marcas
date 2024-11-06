@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Concesionario>
+ 
+<Concesionario>
+    <Marcas>
+        <Marca>
+            <nombre>Ferrari</nombre>
+            <pais_origen>Italia</pais_origen>
+            <coches>
+                <coche>
+                    <modelo>SF90 Stradalle</modelo>
+                    <matriculacion>2024</matriculacion>
+                    <color>Rosso Corsa</color>
+                    <plazas>2</plazas>
+                    <cc>3990cc</cc>
+                </coche>
+                <coche>
+                    <modelo>812 Competizione</modelo>
+                    <matriculacion>2022</matriculacion>
+                    <color>Green Volterra</color>
+                    <plazas>2</plazas>
+                    <cc>6496cc</cc>
+                </coche>
+            </coches>
+        </Marca>
+        <Marca>
+            <nombre>Audi</nombre>
+            <pais_origen>Alemania</pais_origen>
+            <coches>
+                <coche>
+                    <modelo>RS7</modelo>
+                    <matriculacion>2021</matriculacion>
+                    <color>Negro</color>
+                    <plazas>5</plazas>
+                    <cc>4000cc</cc>
+                </coche>
+                <coche>
+                    <modelo>RS6</modelo>
+                    <matriculacion>2023</matriculacion>
+                    <color>Gris Oscuro</color>
+                    <plazas>5</plazas>
+                    <cc>4000cc</cc>
+                </coche>
+            </coches>
+        </Marca>
+        <Marca>
+            <nombre>BMW</nombre>
+            <pais_origen>Alemania</pais_origen>
+            <coches>
+                <coche>
+                    <modelo>M240i</modelo>
+                    <matriculacion>2024</matriculacion>
+                    <color>Azul Celeste</color>
+                    <plazas>5</plazas>
+                    <cc>3000cc</cc>
+                </coche>
+                <coche>
+                    <modelo>M3 F80</modelo>
+                    <matriculacion>2024</matriculacion>
+                    <color>Negro Claro</color>
+                    <plazas>5</plazas>
+                    <cc>3000cc</cc>
+                </coche>
+            </coches>
+        </Marca>
+        <Marca>
+            <nombre>Mercedes</nombre>
+            <pais_origen>Alemania</pais_origen>
+            <coches>
+                <coche>
+                    <modelo>c63s</modelo>
+                    <matriculacion>2024</matriculacion>
+                    <color>Gris Mate</color>
+                    <plazas>5</plazas>
+                    <cc>6300cc</cc>
+                </coche>
+                <coche>
+                    <modelo>A45s</modelo>
+                    <matriculacion>2023</matriculacion>
+                    <color>Amarillo Cani</color>
+                    <plazas>5</plazas>
+                    <cc>2000cc</cc>
+                </coche>
+            </coches>
+        </Marca>
+        <Marca>
+            <nombre>Porsche</nombre>
+            <pais_origen>Alemania</pais_origen>
+            <coches>
+                <coche>
+                    <modelo>911 GT3 992</modelo>
+                    <matriculacion>2024</matriculacion>
+                    <color>Negro Brillo</color>
+                    <plazas>2</plazas>
+                    <cc>4000cc</cc>
+                </coche>
+                <coche>
+                    <modelo>911 TurboS 992</modelo>
+                    <matriculacion>2024</matriculacion>
+                    <color>Rojo Fuerte</color>
+                    <plazas>4</plazas>
+                    <cc>3800cc</cc>
+                </coche>
+            </coches>
+        </Marca>
+    </Marcas>
+</Concesionario>

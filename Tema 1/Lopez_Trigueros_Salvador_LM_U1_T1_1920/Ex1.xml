@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Libro>
+
+<Libro>
+    <titulo>Las crónicas de España</titulo>
+    <editorial>PSO-EX</editorial>
+    <autor>Pedrito </autor>
+    <numero_paginas>666</numero_paginas>
+    <capitulos>
+        <capitulo nombre="Capitulo 1">
+            <pagina_inicio>3</pagina_inicio>
+            <pagina_final>111</pagina_final>
+        </capitulo>
+        <capitulo nombre="Capitulo 2">
+            <pagina_inicio>112</pagina_inicio>
+            <pagina_final>223</pagina_final>
+        </capitulo>
+        <capitulo nombre="Capitulo 3">
+            <pagina_inicio>224</pagina_inicio>
+            <pagina_final>335</pagina_final>
+        </capitulo>
+        <capitulo nombre="Capitulo 4">
+            <pagina_inicio>336</pagina_inicio>
+            <pagina_final>479</pagina_final>
+        </capitulo>
+        <capitulo nombre="Capitulo 5">
+            <pagina_inicio>480</pagina_inicio>
+            <pagina_final>599</pagina_final>
+        </capitulo>
+        <capitulo nombre="Capitulo 6">
+            <pagina_inicio>600</pagina_inicio>
+            <pagina_final>666</pagina_final>
+        </capitulo>
+    </capitulos>
+</Libro>

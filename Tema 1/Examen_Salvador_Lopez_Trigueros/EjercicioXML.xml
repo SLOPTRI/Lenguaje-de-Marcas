@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE renfe>
+<renfe>
+    <medios_transporte nombre="tren">
+        <medio_transporte nombre="cercanicas">
+            <velocidad_maxima>180 Km/H</velocidad_maxima>
+            <contaminacion>444 ppm</contaminacion>
+            <metodo_movimiento>vias</metodo_movimiento>
+            <max_pasageros>49 Personas</max_pasageros>
+            <conductor attr="cercanias">
+                <dni>11223344A</dni>
+                <n_telefono>666777888</n_telefono>
+            </conductor>
+        </medio_transporte>
+        <medio_trasporte attr="ave">
+            <velocidad_maxima>180 Km/H</velocidad_maxima>
+            <contaminacion>444 ppm</contaminacion>
+            <metodo_movimiento>vias</metodo_movimiento>
+            <max_pasageros>49 Personas</max_pasageros>
+            <conductor nombre="ave">
+                <dni>11223344A</dni>
+                <n_telefono>666777888</n_telefono>
+            </conductor>
+        </medio_trasporte>
+        <medio_trasporte attr="tranvia">
+            <velocidad_maxima>180 Km/H</velocidad_maxima>
+            <contaminacion>444 ppm</contaminacion>
+            <metodo_movimiento>vias</metodo_movimiento>
+            <max_pasageros>49 Personas</max_pasageros>
+            <conductor nombre="tranvia">
+                <dni>11223344A</dni>
+                <n_telefono>666777888</n_telefono>
+            </conductor>
+        </medio_trasporte>
+    </medios_transporte>
+</renfe>

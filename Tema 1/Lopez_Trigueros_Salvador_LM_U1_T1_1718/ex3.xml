@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE horario>
+<horario>
+    <dia>
+        <sesiones>
+            <sesion nombre="Programacion">
+                <asignatura>Programacion</asignatura>
+                <tramo>8:30 - 10:30</tramo>
+                <profesor>Alejandro</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Base de datos">
+                <asignatura>Base de datos</asignatura>
+                <tramo>10:30 - 11:30</tramo>
+                <profesor>Teofilo</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Base de datos">
+                <asignatura>Base de datos</asignatura>
+                <tramo>12:00 - 13:00</tramo>
+                <profesor>Teofilo</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Entorno de desarrollo">
+                <asignatura>Entorno de desarrollo</asignatura>
+                <tramo>13:00 - 15:00</tramo>
+                <profesor>Teofilo</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+        </sesiones>
+    </dia>
+    <dia>
+        <sesiones>
+            <sesion nombre="Entorno de desarrollo">
+                <asignatura>Entorno de desarrollo</asignatura>
+                <tramo>8:30 - 9:30</tramo>
+                <profesor>Teofilo</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Sostenibilidad">
+                <asignatura>Sostenibilidad</asignatura>
+                <tramo>10:30 - 11:30</tramo>
+                <profesor>Alejandro</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Programacion">
+                <asignatura>Base de datos</asignatura>
+                <tramo>12:00 - 13:00</tramo>
+                <profesor>Alejandro</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Sistemas informaticos">
+                <asignatura>Sistemas informaticos</asignatura>
+                <tramo>13:00 - 15:00</tramo>
+                <profesor>Jose</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+        </sesiones>
+    </dia>
+    <dia>
+        <sesiones>
+            <sesion nombre="Programacion">
+                <asignatura>Programacion</asignatura>
+                <tramo>8:30 - 10:30</tramo>
+                <profesor>Alejandro</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Lenguaje de marcas">
+                <asignatura>Lenguaje de marcas</asignatura>
+                <tramo>10:30 - 11:30</tramo>
+                <profesor>Miguel</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Sistemas informaticos">
+                <asignatura>Sistemas informaticos</asignatura>
+                <tramo>12:00 - 13:00</tramo>
+                <profesor>Jose</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Base de datos">
+                <asignatura>Base de datos</asignatura>
+                <tramo>13:00 - 15:00</tramo>
+                <profesor>Teofilo</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+        </sesiones>
+    </dia>
+    <dia>
+        <sesiones>
+            <sesion nombre="Programacion">
+                <asignatura>Programacion</asignatura>
+                <tramo>8:30 - 10:30</tramo>
+                <profesor>Alejandro</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Sistemas informaticos">
+                <asignatura>Sistemas informaticos</asignatura>
+                <tramo>10:30 - 11:30</tramo>
+                <profesor>Jose</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Sistemas informaticos">
+                <asignatura>Sistemas informaticos</asignatura>
+                <tramo>12:00 - 13:00</tramo>
+                <profesor>Jose</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Digitalizacion">
+                <asignatura>Digitalizacion</asignatura>
+                <tramo>13:00 - 14:00</tramo>
+                <profesor>Miguel</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Lenguaje de marcas">
+                <asignatura>Lenguaje de marcas</asignatura>
+                <tramo>14:00 - 15:00</tramo>
+                <profesor>Miguel</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+        </sesiones>
+    </dia>
+    <dia>
+        <sesiones>
+            <sesion nombre="Lenguaje de marcas">
+                <asignatura>Lenguaje de marcas</asignatura>
+                <tramo>8:30 - 9:30</tramo>
+                <profesor>Miguel</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Base de datos">
+                <asignatura>Base de datos</asignatura>
+                <tramo>12:00 - 14:00</tramo>
+                <profesor>Teofilo</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+            <sesion nombre="Programacion">
+                <asignatura>Programacion</asignatura>
+                <tramo>14:00 - 15:00</tramo>
+                <profesor>Alejandro</profesor>
+                <aula>1DAM</aula>
+            </sesion>
+        </sesiones>
+    </dia>
+</horario>

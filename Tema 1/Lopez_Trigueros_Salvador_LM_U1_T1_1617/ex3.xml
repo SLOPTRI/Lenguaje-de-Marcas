@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE libro>
+<libro>
+    <recetas>
+        <receta nombre="pizza">
+            <ingredientes>
+                Masa de pizza
+                Tomate
+                Queso
+                Oregano
+                Bacon
+            </ingredientes>
+            <pasos>
+                Poner el tomate sobre la masa de pizza
+                Poner el queso en trocitos
+                Poner oregano pero solo una pizca
+                Poner el bacon
+                Hornear a 200 grados durante 15 minutos
+            </pasos>
+        </receta>
+        <receta nombre="pan">
+            <ingredientes>
+                Harina
+                Agua
+                Sal
+            </ingredientes>
+            <pasos>
+                Mezclar la harina con el agua poco a poco hasta formar una masa
+                Dejar fermentar 24h
+                Hornear a 200 grados durante 20-25 minutos
+            </pasos>
+        </receta>
+    </recetas>
+</libro>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Edificios>
+<Edificios>
+    <Edificio nombre='Sur'>
+        <Plantas>
+            <Planta nombre='Sur 1'>
+                <Amplitud>120 m2</Amplitud>
+                <Empleados>
+                    <Empleado>
+                        <Puesto>Programador Jefe</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Salvador Lopez</Nombre>
+                            <Edad>18</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Amancio Ortega</Nombre>
+                            <Edad>19</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Oscar Fernandez</Nombre>
+                            <Edad>20</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Santiago Sanchez</Nombre>
+                            <Edad>21</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Alvise Perez</Nombre>
+                            <Edad>22</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                </Empleados>
+            </Planta>
+            <Planta nombre='Sur 2'>
+                <Amplitud>120 m2</Amplitud>
+                <Empleados>
+                    <Empleado>
+                        <Puesto>Programador Jefe</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Salvador Lopez</Nombre>
+                            <Edad>18</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Amancio Ortega</Nombre>
+                            <Edad>19</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Oscar Fernandez</Nombre>
+                            <Edad>20</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Santiago Sanchez</Nombre>
+                            <Edad>21</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Alvise Perez</Nombre>
+                            <Edad>22</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                </Empleados>
+            </Planta>
+            <Planta nombre='Sur 3'>
+                <Amplitud>120 m2</Amplitud>
+                <Empleados>
+                    <Empleado>
+                        <Puesto>Programador Jefe</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Salvador Lopez</Nombre>
+                            <Edad>18</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Amancio Ortega</Nombre>
+                            <Edad>19</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Oscar Fernandez</Nombre>
+                            <Edad>20</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Santiago Sanchez</Nombre>
+                            <Edad>21</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Alvise Perez</Nombre>
+                            <Edad>22</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                </Empleados>
+            </Planta>
+        </Plantas>
+    </Edificio>
+    <Edificio nombre='Norte'>
+        <Plantas>
+            <Planta nombre='Norte 1'>
+                <Amplitud>130 m2</Amplitud>
+                <Empleados>
+                    <Empleado>
+                        <Puesto>Programador Jefe</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Salvador Lopez</Nombre>
+                            <Edad>18</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Amancio Ortega</Nombre>
+                            <Edad>19</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Oscar Fernandez</Nombre>
+                            <Edad>20</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Santiago Sanchez</Nombre>
+                            <Edad>21</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Alvise Perez</Nombre>
+                            <Edad>22</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                </Empleados>
+            </Planta>
+            <Planta nombre='Norte 2'>
+                <Amplitud>130 m2</Amplitud>
+                <Empleados>
+                    <Empleado>
+                        <Puesto>Programador Jefe</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Salvador Lopez</Nombre>
+                            <Edad>18</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Amancio Ortega</Nombre>
+                            <Edad>19</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Oscar Fernandez</Nombre>
+                            <Edad>20</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Santiago Sanchez</Nombre>
+                            <Edad>21</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Alvise Perez</Nombre>
+                            <Edad>22</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                </Empleados>
+            </Planta>
+            <Planta nombre='Norte 3'>
+                <Amplitud>130 m2</Amplitud>
+                <Empleados>
+                    <Empleado>
+                        <Puesto>Programador Jefe</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Salvador Lopez</Nombre>
+                            <Edad>18</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Amancio Ortega</Nombre>
+                            <Edad>19</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Oscar Fernandez</Nombre>
+                            <Edad>20</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Santiago Sanchez</Nombre>
+                            <Edad>21</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Alvise Perez</Nombre>
+                            <Edad>22</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                </Empleados>
+            </Planta>
+        </Plantas>
+    </Edificio>
+    <Edificio nombre='Oeste'>
+        <Plantas>
+            <Planta nombre='Oeste 1'>
+                <Amplitud>140 m2</Amplitud>
+                <Empleados>
+                    <Empleado>
+                        <Puesto>Programador Jefe</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Salvador Lopez</Nombre>
+                            <Edad>18</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Amancio Ortega</Nombre>
+                            <Edad>19</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Oscar Fernandez</Nombre>
+                            <Edad>20</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Santiago Sanchez</Nombre>
+                            <Edad>21</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Alvise Perez</Nombre>
+                            <Edad>22</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                </Empleados>
+            </Planta>
+            <Planta nombre='Oeste 2'>
+                <Amplitud>140 m2</Amplitud>
+                <Empleados>
+                    <Empleado>
+                        <Puesto>Programador Jefe</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Salvador Lopez</Nombre>
+                            <Edad>18</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Amancio Ortega</Nombre>
+                            <Edad>19</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Oscar Fernandez</Nombre>
+                            <Edad>20</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Santiago Sanchez</Nombre>
+                            <Edad>21</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Alvise Perez</Nombre>
+                            <Edad>22</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                </Empleados>
+            </Planta>
+            <Planta nombre='Oeste 3'>
+                <Amplitud>140 m2</Amplitud>
+                <Empleados>
+                    <Empleado>
+                        <Puesto>Programador Jefe</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Salvador Lopez</Nombre>
+                            <Edad>18</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Amancio Ortega</Nombre>
+                            <Edad>19</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Oscar Fernandez</Nombre>
+                            <Edad>20</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Santiago Sanchez</Nombre>
+                            <Edad>21</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                    <Empleado>
+                        <Puesto>Programador</Puesto>
+                        <Datos_Personales>
+                            <Nombre>Alvise Perez</Nombre>
+                            <Edad>22</Edad>
+                        </Datos_Personales>
+                    </Empleado>
+                </Empleados>
+            </Planta>
+        </Plantas>
+    </Edificio>
+</Edificios>

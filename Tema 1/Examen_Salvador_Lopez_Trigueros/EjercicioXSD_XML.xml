@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv>
+<tv
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="EjercicioXSD.xsd"
+>
+    <dias>
+        <dia numero="1">
+            <canales>
+                <canal numero="1">
+                    <duracion>7 Horas</duracion>
+                    <titulo>LQSA</titulo>
+                    <descripcion>Panda de vecinos picaos de la cabeza</descripcion>
+                    <c_edad>18</c_edad>
+                    <capitulos>
+                        <capitulo>Episodio1</capitulo>
+                    </capitulos>
+                </canal>
+            </canales>
+            <anuncios>
+                <anuncio>
+                    <marca>Cofidis</marca>
+                    <duracion>7 Minutos</duracion>
+                    <horario>2</horario>
+                </anuncio>
+            </anuncios>
+        </dia>
+    </dias>
+</tv>

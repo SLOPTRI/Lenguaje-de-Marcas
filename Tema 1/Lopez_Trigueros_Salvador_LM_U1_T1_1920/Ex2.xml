@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CentroComercial>
+
+<CentroComercial nombre='N4'>
+    <Tiendas>
+        <Tienda nombre='Zara'>
+            <parecela>1,3,5</parecela>
+            <metros>160m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+        <Tienda nombre='PullBear'>
+            <parecela>7</parecela>
+            <metros>50m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+        <Tienda nombre='Berskha'>
+            <parecela>2,4</parecela>
+            <metros>70m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+        <Tienda nombre='Springfield'>
+            <parecela>6</parecela>
+            <metros>60m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+        <Tienda nombre='Sprinter'>
+            <parecela>9</parecela>
+            <metros>45m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+        <Tienda nombre='Stradivarius'>
+            <parecela>8</parecela>
+            <metros>35m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+        <Tienda nombre='Campeon'>
+            <parecela>11</parecela>
+            <metros>40m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+        <Tienda nombre='Primor'>
+            <parecela>10</parecela>
+            <metros>60m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+        <Tienda nombre='Carrefour'>
+            <parecela>12</parecela>
+            <metros>55m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+        <Tienda nombre='Orange'>
+            <parecela>13</parecela>
+            <metros>30m2</metros>
+            <encargado>
+                <nombre>Antonio</nombre>
+                <apellidos>
+                    <apellido>Recio</apellido>
+                    <apellido>Matamoros</apellido>
+                </apellidos>
+                <telefono>666777888</telefono>
+                <nss>555-50-1234</nss>
+            </encargado>
+        </Tienda>
+    </Tiendas>
+</CentroComercial>

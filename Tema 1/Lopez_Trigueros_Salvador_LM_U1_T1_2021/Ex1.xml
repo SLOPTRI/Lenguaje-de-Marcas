@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Torneo>
+
+<Torneo>
+    <nombre>La Pachanguita</nombre>
+    <fechas>
+        <inicio-torneo>04/10/2024</inicio-torneo>
+        <final-torneo>10/10/2024</final-torneo>
+    </fechas>
+    <partidos>
+        <partido>
+            <pista>Pista-4</pista>
+            <fecha>04/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Amador Rivas</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Fermin Trujillo</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>1-0 Amador Rivas</set>
+                <set>2-0 Amador Rivas</set>
+                <set>2-1 Fermin Trujillo</set>
+            </sets>
+            <Winner>Amador Rivas</Winner>
+        </partido>
+        <partido>
+            <pista>Pista-2</pista>
+            <fecha>04/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Amador Trujillo</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Fermin Rivas</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>0-1 Fermin Rivas</set>
+                <set>1-1 Amador Trujillo</set>
+                <set>2-1 Amador Trujillo</set>
+            </sets>
+            <Winner>Amador Trujillo</Winner>
+        </partido>
+        <partido>
+            <pista>Pista-3</pista>
+            <fecha>04/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Enrrique Pastor</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Fermin Trujillo</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>1-0 Enrrique Pastor</set>
+                <set>2-0 Enrrique Pastor</set>
+                <set>2-1 Fermin Trujillo</set>
+            </sets>
+            <Winner>Fermin Trujillo</Winner>
+        </partido>
+        <partido>
+            <pista>Pista-1</pista>
+            <fecha>05/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Fermin Pastor</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Amador Trujillo</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>1-0 Fermin Pastor</set>
+                <set>2-0 Fermin Pastor</set>
+                <set>2-1 Amador Trujillo</set>
+            </sets>
+            <Winner>Fermin Pastor</Winner>
+        </partido>
+        <partido>
+            <pista>Pista-5</pista>
+            <fecha>05/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Nicolas Maduro</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Santiago Avoxcal</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>0-1 Santiago Avoxcal</set>
+                <set>0-2 Santiago Avoxcal</set>
+                <set>0-3 Santiago Avoxcal</set>
+            </sets>
+            <Winner>Santiago Avoxcal</Winner>
+        </partido>
+        <partido>
+            <pista>Pista-7</pista>
+            <fecha>05/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Shrek</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Lord Farquaad</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>1-0 Shrek</set>
+                <set>2-0 Shrek</set>
+                <set>2-1 Lord Farquaad</set>
+            </sets>
+            <Winner>Shrek</Winner>
+        </partido>
+        <partido>
+            <pista>Pista-6</pista>
+            <fecha>05/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Fermin Pastor</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Oscar Fernandez</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>1-0 Fermin Pastor</set>
+                <set>1-1 Oscar Fernandez</set>
+                <set>1-2 Oscar Fernandez</set>
+            </sets>
+            <Winner>Oscar Fernandez</Winner>
+        </partido>
+        <partido>
+            <pista>Pista-10</pista>
+            <fecha>06/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Shrek</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Santiago Avoxcal</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>0-1 Santiago Avoxcal</set>
+                <set>1-1 Shrek</set>
+                <set>2-1 Santiago Avoxcal</set>
+            </sets>
+            <Winner>Santiago Avoxcal</Winner>
+        </partido>
+        <partido>
+            <pista>Pista-9</pista>
+            <fecha>07/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Lord Farquaad</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Fermin Trujillo</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>1-0 Fermin Trujillo</set>
+                <set>1-1 Lord Farquaad</set>
+                <set>1-2 Lord Farquaad</set>
+            </sets>
+            <Winner>Lord Farquaad</Winner>
+        </partido>
+        <partido>
+            <pista>Pista-8</pista>
+            <fecha>09/10/2024</fecha>
+            <jugadores>
+                <jugador>
+                    <nombre>Amancio Ortega</nombre>
+                </jugador>
+                <jugador>
+                    <nombre>Ministerio De Hacienda</nombre>
+                </jugador>
+            </jugadores>
+            <sets>
+                <set>1-0 Ministerio De Hacienda</set>
+                <set>1-1 Amancio Ortega</set>
+                <set>1-2 Amancio Ortega</set>
+            </sets>
+            <Winner>Amancio Ortega</Winner>
+        </partido>
+    </partidos>
+</Torneo> 

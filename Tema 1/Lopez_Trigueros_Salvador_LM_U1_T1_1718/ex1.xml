@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cine>
+<cine nombre="Artesiete Ecija">
+    <cartelera>
+        <pelicula nombre="The Batman">
+            <fecha>2022</fecha>
+            <nombre>The Batman</nombre>
+            <duracion>175 Minutos</duracion>
+            <director>Matt Reeves</director>
+            <actores>
+                <actor>Robert Pattinson - Batman</actor>
+                <actor>Zoe Kravitz - Catwoman</actor>
+            </actores>
+            <sesiones>
+                <sesion>
+                    <sala>Sala 1</sala>
+                    <hora>15:30</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 4</sala>
+                    <hora>18:45</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 6</sala>
+                    <hora>22:00</hora>
+                </sesion>
+            </sesiones>
+            <resumen>Después de dos años acechando por las calles de la ciudad como Batman (Robert Pattinson), e infundiendo miedo en las mentes perversas de los criminales,
+                Bruce Wayne está sumido en las profundidades de las sombras de Gotham City. Este vigilante solitario cuenta con pocos aliados de confianza y eso le ha llevado
+                a convertirse en la única encarnación de la venganza entre sus conciudadanos. Cuando un asesino apunta a la élite de Gotham con una serie de maquinaciones sádicas,
+                un rastro de pistas crípticas lleva a Batman a realizar una investigación en el inframundo.</resumen>
+        </pelicula>
+        <pelicula nombre="Batman Begins">
+            <fecha>2005</fecha>
+            <nombre>Batman Begins</nombre>
+            <duracion>140 Minutos</duracion>
+            <director>Christopher Nolan</director>
+            <actores>
+                <actor>Christian Bale - Batman</actor>
+                <actor>Cillian Murphy - Espantapajaros</actor>
+            </actores>
+            <sesiones>
+                <sesion>
+                    <sala>Sala 2</sala>
+                    <hora>15:00</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 3</sala>
+                    <hora>17:55</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 5</sala>
+                    <hora>20:30</hora>
+                </sesion>
+            </sesiones>
+            <resumen>Nueva adaptación del famoso cómic. Narra los orígenes de la leyenda de Batman y los motivos que lo convirtieron en el representante del Bien en la ciudad de Gotham. Bruce Wayne vive obsesionado con el recuerdo de sus padres, muertos a tiros en su presencia.
+                Atormentado por el dolor, se va de Gotham y recorre el mundo hasta que encuentra a un extraño personaje que lo adiestra en todas las disciplinas físicas y mentales que le servirán para combatir el Mal. Por esta razón, la Liga de las Sombras, una poderosa y subversiva
+                sociedad secreta, dirigida por el enigmático Ra's Al Ghul, intenta reclutarlo. Cuando Bruce vuelve a Gotham, la ciudad está dominada por el crimen y la corrupción. Con la ayuda de su leal mayordomo Alfred, del detective de la policía Jim Gordon y de Lucius Fox, su colega
+                en una Sociedad de Ciencias Aplicadas, Wayne libera a su alter ego: Batman, un justiciero enmascarado que utiliza la fuerza, la inteligencia y la más alta tecnología para luchar contra las siniestras fuerzas que amenazan con destruir la ciudad. </resumen>
+        </pelicula>
+        <pelicula nombre="The Dark Knight">
+            <fecha>2008</fecha>
+            <nombre>The Dark Knight</nombre>
+            <duracion>152 Minutos</duracion>
+            <director>Christopher Nolan</director>
+            <actores>
+                <actor>Christian Bale - Batman</actor>
+                <actor>Heath Ledger - The Joker</actor>
+            </actores>
+            <sesiones>
+                <sesion>
+                    <sala>Sala 5</sala>
+                    <hora>16:00</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 4</sala>
+                    <hora>19:45</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 6</sala>
+                    <hora>21:30</hora>
+                </sesion>
+            </sesiones>
+            <resumen>Batman/Bruce Wayne (Christian Bale) regresa para continuar su guerra contra el crimen.
+                Con la ayuda del teniente Jim Gordon (Gary Oldman) y del Fiscal del Distrito Harvey Dent (Aaron Eckhart),
+                Batman se propone destruir el crimen organizado en la ciudad de Gotham.
+                El triunvirato demuestra su eficacia, pero, de repente, aparece Joker (Heath Ledger),
+                un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.</resumen>
+        </pelicula>
+        <pelicula nombre="The Dark Knight Rises">
+            <fecha>2012</fecha>
+            <nombre>The Dark Knight Rises</nombre>
+            <duracion>164 Minutos</duracion>
+            <director>Matt Reeves</director>
+            <actores>
+                <actor>Christian Bale - Batman</actor>
+                <actor>Anne Hathaway - Catwoman</actor>
+            </actores>
+            <sesiones>
+                <sesion>
+                    <sala>Sala 6</sala>
+                    <hora>17:30</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 4</sala>
+                    <hora>19:45</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 3</sala>
+                    <hora>23:00</hora>
+                </sesion>
+            </sesiones>
+            <resumen>Hace ocho años que Batman desapareció, dejando de ser un héroe para convertirse en un fugitivo. Al asumir la culpa por la muerte del fiscal del distrito Harvey Dent,
+                el Caballero Oscuro decidió sacrificarlo todo por lo que consideraba, al igual que el Comisario Gordon, un bien mayor. La mentira funciona durante un tiempo,
+                ya que la actividad criminal de la ciudad de Gotham se ve aplacada gracias a la dura Ley Dent. Pero todo cambia con la llegada de una astuta gata ladrona que pretende llevar a cabo un misterioso plan.
+                Sin embargo, mucho más peligrosa es la aparición en escena de Bane, un terrorista enmascarado cuyos despiadados planes obligan a Bruce a regresar de su voluntario exilio.</resumen>
+        </pelicula>
+        <pelicula nombre="American Pyscho">
+            <nombre>American Pyscho</nombre>
+            <duracion>101 Minutos</duracion>
+            <director>Mary Harron</director>
+            <actores>
+                <actor>Christian Bale - Patrick Bateman</actor>
+                <actor>Jared Leto - Paul Allen</actor>
+            </actores>
+            <sesiones>
+                <sesion>
+                    <sala>Sala 2</sala>
+                    <hora>17:50</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 4</sala>
+                    <hora>18:45</hora>
+                </sesion>
+                <sesion>
+                    <sala>Sala 3</sala>
+                    <hora>23:15</hora>
+                </sesion>
+            </sesiones>
+            <resumen>En un mundo moralmente plano en el que la ropa tiene más sentido que la piel,
+                Patrick Bateman es un espécimen soberbiamente elaborado que cumple todos los requisitos de Master del Universo,
+                desde el diseño de su vestuario hasta el de sus productos químicos. Es prácticamente perfecto,
+                como casi todos en su mundo e intenta desesperadamente encajar en él.
+                Cuando más intenta ser como cualquier otro hombre adinerado de Wall Street,
+                más anónimo se vuelve y menos control tiene sobre sus terribles instintos y su insaciable sed de sangre,
+                que lo arrastra a una vorágine en la que los objetos valen más que el cuerpo y el alma de una persona.</resumen>
+        </pelicula>
+    </cartelera>
+</cine>

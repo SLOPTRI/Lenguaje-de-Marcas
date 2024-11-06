@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ordenador>
+<ordenador nombre ='El manolito'>
+    <componentes>
+        <componente nombre="Placa Base">
+            <nombre>Placa Base</nombre>
+            <modelo>Asus TUF B650M</modelo>
+            <precio>125$</precio>
+            <fabricante>Asus</fabricante>
+            <caracteristicas>
+                <caracteristica>Socket AM5</caracteristica>
+                <caracteristica>Chipset B650</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente nombre="CPU">
+            <nombre>CPU</nombre>
+            <modelo>AMD Ryzen 5 7600X</modelo>
+            <precio>200$</precio>
+            <fabricante>AMD</fabricante>
+            <caracteristicas>
+                <caracteristica>Socket AM5</caracteristica>
+                <caracteristica>6 Nucleos</caracteristica>
+                <caracteristica>12 Hilos</caracteristica>
+                <caracteristica>4.7 GHz de frecuencia base</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente nombre="Tarjeta Grafica">
+            <nombre>GPU</nombre>
+            <modelo>GigaByte AORUS Geforece RTX 4070 SUPER MASTER</modelo>
+            <precio>800$</precio>
+            <fabricante>GigaByte</fabricante>
+            <caracteristicas>
+                <caracteristica>12GB Vram GDDR6X</caracteristica>
+                <caracteristica>Tecnologia DLSS3</caracteristica>
+                <carcateristica>3 Ventiladores</carcateristica>
+                <carcateristica>RBG Muy importante</carcateristica>
+            </caracteristicas>
+        </componente>
+        <componente nombre="Caja-Torre">
+            <nombre>Caja</nombre>
+            <modelo>Lian-Li O11 Dynamic EVO Cristal Templado USB 3.0 Negra</modelo>
+            <precio>150$</precio>
+            <fabricante>Lian-Li</fabricante>
+            <caracteristicas>
+                <caracteristica>Calidad</caracteristica>
+                <caracteristica>Cristal Templado de 4mm</caracteristica>
+                <carcateristica>Soporta 3 radioadores de 360mm</carcateristica>
+                <carcateristica>Soporta 10 ventiladores</carcateristica>
+                <caracteristica>RGB</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente nombre="Memoria RAM">
+            <nombre>Memoria RAM</nombre>
+            <modelo>Kingston FURY Beast RGB DDR5 6000MHz 32GB 2x16GB CL36</modelo>
+            <precio>140$</precio>
+            <fabricante>Kingston</fabricante>
+            <caracteristicas>
+                <caracteristica>32GB - 2x16GB</caracteristica>
+                <caracteristica>Tecnologia DDR5</caracteristica>
+                <carcateristica>6000 MHz de frecuencia</carcateristica>
+                <carcateristica>Latencia CL36</carcateristica>
+                <caracteristica>RGB</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente nombre="Fuente de alimentacion">
+            <nombre>PSU</nombre>
+            <modelo>Seasonic Focus GX-850 850W 80 Plus Gold Modular</modelo>
+            <precio>110$</precio>
+            <fabricante>Seasonic</fabricante>
+            <caracteristicas>
+                <caracteristica>850W de potencia</caracteristica>
+                <caracteristica>Certificacion 80 Plus Gold</caracteristica>
+                <carcateristica>Modular</carcateristica>
+            </caracteristicas>
+        </componente>
+        <componente nombre="Disipador">
+            <nombre>Disipador</nombre>
+            <modelo>NZXT Kraken Elite 360 RGB Kit de Refrigeración Líquida</modelo>
+            <precio>330$</precio>
+            <fabricante>NZXT</fabricante>
+            <caracteristicas>
+                <caracteristica>360MM</caracteristica>
+                <caracteristica>3 Ventiladores</caracteristica>
+                <carcateristica>Pantalla que muestra temperatura que tambien es personalizable</carcateristica>
+                <caracteristica>RGB</caracteristica>
+                <caracteristica>Bomba de muy alto reendimiento</caracteristica>
+            </caracteristicas>
+        </componente>
+        <componente nombre="Disco Duro">
+            <nombre>Disco Duro</nombre>
+            <modelo>Samsung 990 EVO 2TB SSD M.2 PCIe 4.0 x4/5.0 x2 NVMe 2.0</modelo>
+            <precio>130$</precio>
+            <fabricante>Samsung</fabricante>
+            <caracteristicas>
+                <caracteristica>Tecnologia NVME 2.0</caracteristica>
+                <caracteristica>Tecnologia PCI-E 4.0</caracteristica>
+                <caracteristica>2TB de Memoria</caracteristica>
+                <caracteristica>5000 MB/S de velocidad de lectura</caracteristica>
+                <caracteristica>4200 MB/S de velocidad de escritura</caracteristica>
+            </caracteristicas>
+        </componente>
+    </componentes>
+</ordenador>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pueblo>
+<pueblo>
+    <nombre nombre="Ecija">
+        Camino al infierno
+    </nombre>
+    <paradas>
+        <parada>
+            <nombre>
+                Backrooms
+            </nombre>
+            <horario>
+                10:00 - 20:00
+            </horario>
+        </parada>
+        <parada>
+            <nombre>
+                Fuentealbilla
+            </nombre>
+            <horario>
+                10:00 - 20:00
+            </horario>
+        </parada>
+    </paradas>
+</pueblo>

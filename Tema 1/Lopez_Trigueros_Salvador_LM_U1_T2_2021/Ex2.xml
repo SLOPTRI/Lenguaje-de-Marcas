@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder orderid="12345">
+    <orderperson>Salvador Lopez</orderperson>
+    <shipto>
+        <name>Salvador Lopez</name>
+        <address>Chuchufleta ST</address>
+        <city>Ecija</city>
+        <country>Spain</country>
+    </shipto>
+    <item>
+        <title>Teclaito wapo</title>
+        <note>wenisimo suena perfe</note>
+        <quantity>1</quantity>
+        <price>199</price>
+    </item>
+    <item>
+        <title>Teclaito aun mas wapo</title>
+        <quantity>1</quantity>
+        <price>299</price>
+    </item>
+</shiporder>

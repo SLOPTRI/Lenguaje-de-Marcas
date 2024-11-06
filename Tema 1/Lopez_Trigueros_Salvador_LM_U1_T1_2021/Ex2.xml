@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Cluster>
+
+<cluster>
+    <nodos>
+        <nodo nombre="Madrid">
+            <direccion-ip-nodo>192.168.1.10/24</direccion-ip-nodo>
+            <maquinas-virtuales>
+                <maquina-virtual>
+                    <sistema-operativo>Windows 11</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.1.11/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.1.21/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>Windows 10</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.1.12/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.1.22/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>Windows 7</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.1.13/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.1.23/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+            </maquinas-virtuales>
+        </nodo>
+        <nodo nombre="Paris">
+            <direccion-ip-nodo>192.168.2.10/24</direccion-ip-nodo>
+            <maquinas-virtuales>
+                <maquina-virtual>
+                    <sistema-operativo>Proxmox</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.2.11/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>Linux Mint</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.2.12/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>Red Hat</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.2.13/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+            </maquinas-virtuales>
+        </nodo>
+        <nodo nombre="Berlin">
+            <direccion-ip-nodo>192.168.3.10/24</direccion-ip-nodo>
+            <maquinas-virtuales>
+                <maquina-virtual>
+                    <sistema-operativo>Ubuntu 24.04</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.3.11/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>Ubuntu 23.10</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.3.12/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>Ubuntu 22.04</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.3.13/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+            </maquinas-virtuales>
+        </nodo>
+        <nodo nombre="Roma">
+            <direccion-ip-nodo>192.168.4.10/24</direccion-ip-nodo>
+            <maquinas-virtuales>
+                <maquina-virtual>
+                    <sistema-operativo>KaliLinux</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.4.11/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>MetaExploit 1</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.4.12/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>MetaExploit 2</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.4.13/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+            </maquinas-virtuales>
+        </nodo>
+        <nodo nombre="Londres">
+            <direccion-ip-nodo>192.168.5.10/24</direccion-ip-nodo>
+            <maquinas-virtuales>
+                <maquina-virtual>
+                    <sistema-operativo>Lubuntu</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.5.11/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>Windows Server 16</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.5.12/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+                <maquina-virtual>
+                    <sistema-operativo>Ubuntu Server</sistema-operativo>
+                    <interfaces-de-red>
+                        <interfaz>
+                            <direccion-ip-maquina-virtual>192.168.5.13/24</direccion-ip-maquina-virtual>
+                            <direccion-mac-maquina-virtual>25-67-57-C4-BE-4C</direccion-mac-maquina-virtual>
+                        </interfaz>
+                    </interfaces-de-red>
+                </maquina-virtual>
+            </maquinas-virtuales>
+        </nodo>
+    </nodos>
+</cluster>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE profesores>
+<profesores>
+        <profesor nombre="Alejandro">
+            <asignatura nombre="Programacion">
+                <alumnos>
+                    Paco
+                    Pepe
+                    Manolo
+                    Jose
+                    Daniel
+                    Salvador
+                    Javier
+                    Oscar
+                    Adrian
+                    Fernando
+                </alumnos>
+            </asignatura>
+            <asignatura nombre="Sostenibilidad">
+                <alumnos>
+                    Paco
+                    Pepe
+                    Manolo
+                    Jose
+                    Daniel
+                    Salvador
+                    Javier
+                    Oscar
+                    Adrian
+                    Fernando
+                </alumnos>
+            </asignatura>
+        </profesor>
+        <profesor nombre="Miguel">
+            <asignatura nombre="Lenguaje de marcas">
+                <alumnos>
+                    Paco
+                    Pepe
+                    Manolo
+                    Jose
+                    Daniel
+                    Salvador
+                    Javier
+                    Oscar
+                    Adrian
+                    Fernando
+                </alumnos>
+            </asignatura>
+            <asignatura nombre="Digitalizacion">
+                <alumnos>
+                    Paco
+                    Pepe
+                    Manolo
+                    Jose
+                    Daniel
+                    Salvador
+                    Javier
+                    Oscar
+                    Adrian
+                    Fernando
+                </alumnos>
+            </asignatura>
+        </profesor>
+</profesores>
